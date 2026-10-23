@@ -1,0 +1,6 @@
+performance_date,performance_id,role,absent_actor,replacement_actor,replacement_name,status
+2044-03-14,PF-201,Ophelia,AC-105,AC-103,Priya Snow,ASSIGNED
+2044-03-14,PF-201,Hamlet,AC-101,AC-102,Owen Reed,ASSIGNED
+2044-03-15,PF-202,Horatio,AC-106,AC-101,Mina Vale,ASSIGNED
+2044-03-15,PF-202,Gertrude,AC-103,,,UNFILLED
+2044-03-15,PF-203,Hamlet,AC-102,AC-101,Mina Vale,ASSIGNED
